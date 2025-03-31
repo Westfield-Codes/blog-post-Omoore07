@@ -3,3 +3,16 @@
     margin-left:30px;
     width:300px;
 }
+#skateparks table{
+    width:80%;
+}
+#skateparks table, #skateparks th, #skateparks td {
+    border:1px solid black;
+    padding:10px;
+}
+#skateparks th {
+    background-color:lightblue;
+}
+table img {
+    width:300px;
+}
