@@ -1,18 +1,39 @@
-.right-image {
+#right-gal {
     float:right;
     margin-left:30px;
-    width:300px;
 }
+#right-gal img {
+    width:300px;
+    margin-bottom:30px;
+    float:right;
+    clear:right;
+}
+
 #skateparks table{
     width:80%;
 }
+
 #skateparks table, #skateparks th, #skateparks td {
-    border:1px solid black;
+    border:3px solid black;
     padding:10px;
+    background-color:rgb(219, 219, 255);
+
 }
+
 #skateparks th {
     background-color:lightblue;
 }
+
 table img {
     width:300px;
+}
+
+#html {
+    background-color:lightgrey;
+}
+#html img {
+    border: 7px solid;
+}
+a give id {
+    color:black;
 }
