@@ -29,11 +29,23 @@ table img {
 }
 
 #html {
-    background-color:lightgrey;
+    background-color:#eceaea;
 }
+
 #html img {
     border: 7px solid;
 }
+
 .black {
     color:black;
+}
+#sources {
+    color:white;
+    background-color:rgb(88, 88, 88);
+    padding: 10px;
+    display:inline-block;
+    border-radius:10px;
+}
+#sources a {
+    color:white;
 }
